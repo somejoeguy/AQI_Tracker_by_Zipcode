@@ -40,7 +40,7 @@ AQI_Tracker_Ver1/
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/AQI_Tracker.git
+git clone https://github.com/somejoeguy/AQI_Tracker_by_Zipcode.git
 
 
 2. Install required packages:
